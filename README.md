@@ -39,4 +39,4 @@ look up / down (insert / del), stride (page up, home)
 
 ## Status
 
-The demo was developed in April, 2014. It is not developed anymore.
+The demo was developed in April, 2014. It is not maintained / developed anymore.
