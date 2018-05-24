@@ -76,7 +76,8 @@ public class World {
 		
 		startGameLoop();
 		
-		mp = new MediaPlayer( new Media( R.getString( "sound/wind.mp3" ) ) );
+		//mp = new MediaPlayer( new Media( R.getString( "sound/wind.mp3" ) ) );
+		mp = new MediaPlayer( new Media( R.getString( "sound/wind.wav" ) ) );
 		mp.setCycleCount( MediaPlayer.INDEFINITE );
 		mp.play();
 	}
