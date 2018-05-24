@@ -36,3 +36,7 @@ look up / down (insert / del), stride (page up, home)
 ![MARBLE theme](screenshots/marble.jpg)
 
 ![EMPTY theme](screenshots/empty.jpg)
+
+## Status
+
+The demo was developed in April, 2014. It is not developed anymore.
