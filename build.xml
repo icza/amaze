@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Amaze">
+
+	<property name="releaseFolder" value="release" />
+
+	<target name="0_CREATE_DEPLOYMENT_JAR" description="Creates an executable jar deployment.">
+
+		<jar destfile="${releaseFolder}/Amaze/Amaze.jar" basedir="bin">
+			<manifest>
+				<attribute name="Main-Class" value="hu.belicza.andras.amaze.Amaze" />
+			</manifest>
+		</jar>
+
+	</target>
+
+</project>

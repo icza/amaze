@@ -1,0 +1,7 @@
+
+-To implement FOG (drarker by distance), check:
+	LinearGradient fill for the scene (JavaFX 3d maze demo).
+
+
+-Map overlay (showing the parts that were already visited).
+
